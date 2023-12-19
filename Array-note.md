@@ -7,5 +7,6 @@ int[] nums = new int[intList.length];
 for (int i = 0; i < intList.length; i++) {
     nums[i] = Integer.parseInt(intList[i]);
 }
+Arrays.toString 将数组转化为字符串打印输出
 
 
